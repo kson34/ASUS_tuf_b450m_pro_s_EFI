@@ -10,6 +10,6 @@
 ### 其他没有发现异常，一直很稳定。
 ### AMD YES
 
-其实不需要刻录U盘，不需要下载10几G的文件那么麻烦。（推荐在线安装版）只需要下载这个网盘的com.apple.recovery.boot.zip（300M）解压到U盘同EFI同级即可在线安装一般也就20分钟就下载完连安装大概1小时。
+另外安装macos其实不需要刻录U盘，不需要下载10几G的文件那么麻烦。（推荐在线安装版）只需要下载这个网盘的com.apple.recovery.boot.zip（300M）解压到U盘同EFI同级即可在线安装一般也就20分钟就下载完连安装大概1小时。
 链接: https://pan.baidu.com/s/1l3hNSBUmZfp_WFocea_jIw 提取码: mrz2 
 
